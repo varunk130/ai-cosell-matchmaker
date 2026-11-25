@@ -1,0 +1,27 @@
+{
+  "name": "ai-cosell-matchmaker",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "PartnerFit: an agent network for B2B co-sell. Agents research the account, match a partner, negotiate agent-to-agent with the partner's own agent, price the deal, and write the plan.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.14.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.7",
+    "@types/react": "^19.3.1",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.1"
+  }
+}
