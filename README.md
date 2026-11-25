@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-Open the app and click through four tabs: **Case study** (the story), **Agent network** (live demo), **Use cases**, and **Impact**. Presenting? Use [`TALK-TRACK.md`](TALK-TRACK.md).
+Open the app and click through four tabs: **Case study** (the story), **Agent network** (live demo), **Use cases**, and **Impact**.
 
 It runs offline on sample data. Add `ANTHROPIC_API_KEY` to run the same agents live on Claude.
 
