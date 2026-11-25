@@ -13,6 +13,13 @@
 | **Solution** | A team of six AI agents researches the deal, picks the partner that removes the blocker, confirms with the partner's own agent, prices the deal, and writes the plan. |
 | **Result (demo)** | Win probability **21% → 45%** on a sample deal, **+$1.3M** expected lift across a $6.6M pipeline, and a ready co-sell plan in one run. |
 
+## Executive summary
+
+- **Why we built it.** Partner selling is moving onto cloud marketplaces, and companies are starting to expose their own AI agents. That makes it possible to automate the slowest part of a co-sell deal: finding the right partner and getting them committed.
+- **What we built.** Six specialist agents for the seller, plus an agent for each partner company. Our negotiator agent talks directly to the partner's agent, and each side keeps its own data private.
+- **Why it matters.** Picking the partner by what blocks the deal instead of by territory nearly doubles win rates in the demo history. Days of email become one run with a written plan.
+- **What it proves.** Agent-to-agent deals across company lines can be safe and auditable: every number comes from a tool, every step is in the trace, and the playbooks are plain files the business owns.
+
 ## How it works
 
 **Research → Match → Confirm with the partner's agent → Price → Deliver.** Each company's agent uses only its own data. Every agent follows a short written playbook (a "skill") that the business owns. Every step is visible in a live trace.
