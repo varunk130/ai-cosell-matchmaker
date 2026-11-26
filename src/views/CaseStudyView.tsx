@@ -50,7 +50,7 @@ export function CaseStudyView() {
       </nav>
       <header className="cs-hero">
         <span className="cs-kicker">Case study · B2B partnerships · Agent-to-agent</span>
-        <h1>The right partner nearly doubles a deal’s odds. AI agents find and engage them in minutes, not days.</h1>
+        <h1>The right partner nearly doubles a deal’s odds. AI agents find and engage that partner in minutes, not days.</h1>
         <p className="lede">
           A network of AI agents that picks the partner for each deal, agrees terms directly with that partner’s own agent, and hands the seller a
           ready co-sell plan.
