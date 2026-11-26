@@ -201,7 +201,7 @@ export function CaseStudyView() {
           <div className="cs-card" style={{ ['--tone' as string]: 'var(--cs-2)' }}>
             <div className="big">A2A</div>
             <h3>Agents can talk to agents</h3>
-            <p>Two companies’ agents can agree fit and terms without sharing databases.</p>
+            <p>Two companies’ agents can agree on fit and terms without sharing databases.</p>
           </div>
           <div className="cs-card" style={{ ['--tone' as string]: 'var(--cs-3)' }}>
             <div className="big">Skills</div>
