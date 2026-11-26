@@ -323,7 +323,7 @@ export function CaseStudyView() {
           <span className="cs-num">6</span>
           <div>
             <h2>Results in the demo</h2>
-            <p>On a synthetic pipeline of {m.deals} deals and eight partners.</p>
+            <p>On a synthetic pipeline of {m.deals} deals and {PARTNERS.length} partners.</p>
           </div>
         </div>
         <div className="cs-results">
