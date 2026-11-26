@@ -196,7 +196,7 @@ export function CaseStudyView() {
           <div className="cs-card" style={{ ['--tone' as string]: 'var(--cs-1)' }}>
             <div className="big">5x</div>
             <h3>Marketplaces are scaling</h3>
-            <p>Marketplace sales grow about 5x from 2023 to 2028 [1]. Every deal involves two companies.</p>
+            <p>Marketplace sales grow about 5x from 2023 to 2028 <Ref n={1} />. Every marketplace deal involves at least two companies.</p>
           </div>
           <div className="cs-card" style={{ ['--tone' as string]: 'var(--cs-2)' }}>
             <div className="big">A2A</div>
