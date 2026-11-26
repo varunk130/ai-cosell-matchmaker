@@ -129,7 +129,7 @@ export function StackedColumns(props: {
                 const y0 = sy(acc);
                 acc += v;
                 const y1 = sy(acc);
-                const h = Math.max(0, y0 - y1 - (si < series.length - 1 ? 0 : 0));
+                const h = Math.max(0, y0 - y1);
                 const isTop = si === series.length - 1;
                 return (
                   <path
