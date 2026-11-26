@@ -430,6 +430,7 @@ export function CaseStudyView() {
           <span className="cs-num">8</span>
           <div>
             <h2>What’s next</h2>
+            <p>Three steps from demo to a program that runs every deal.</p>
           </div>
         </div>
         <div className="cs-roadmap">
