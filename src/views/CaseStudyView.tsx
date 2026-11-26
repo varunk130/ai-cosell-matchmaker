@@ -366,7 +366,7 @@ export function CaseStudyView() {
               </tr>
               <tr>
                 <td>Agree terms</td>
-                <td>Back-and-forth with deal desk</td>
+                <td>Back-and-forth with the deal desk</td>
                 <td>Structures compared on expected value</td>
               </tr>
               <tr>
