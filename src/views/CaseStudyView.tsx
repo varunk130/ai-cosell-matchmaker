@@ -58,7 +58,7 @@ export function CaseStudyView() {
         <div className="cs-hero-stats">
           <div className="cs-hero-stat">
             <div className="v">$85B</div>
-            <div className="k">marketplace software sales by 2028 [1]</div>
+            <div className="k">marketplace software sales by 2028 <Ref n={1} /></div>
           </div>
           <div className="cs-hero-stat">
             <div className="v">
