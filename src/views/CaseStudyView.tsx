@@ -119,7 +119,7 @@ export function CaseStudyView() {
         <div className="cs-head">
           <span className="cs-num">2</span>
           <div>
-            <h2>How big is the opportunity</h2>
+            <h2>The opportunity</h2>
             <p>Partner-led and marketplace selling is becoming the default route to buy enterprise software.</p>
           </div>
         </div>
