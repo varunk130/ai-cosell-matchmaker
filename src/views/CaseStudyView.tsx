@@ -223,7 +223,7 @@ export function CaseStudyView() {
           {[
             ['Diagnose', 'Names the real blocker on the deal.'],
             ['Research', 'Finds what changed at the customer and who decides.'],
-            ['Match', 'Ranks every partner on 6 factors, with reasons.'],
+            ['Match', 'Ranks every partner on six factors, with reasons.'],
             ['Confirm (A2A)', 'Asks the partner’s own agent: relationship, capacity, terms.'],
             ['Price', 'Compares deal structures on expected value.'],
             ['Deliver', 'Saves the co-sell plan and partner intro.'],
